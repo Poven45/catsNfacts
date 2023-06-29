@@ -42,7 +42,7 @@ a {
   }
 
 a:hover {
-    color: chartreuse;
+    color: rgba(128, 255, 0, 0.078);
     font-size: 3rem;
 }
 
