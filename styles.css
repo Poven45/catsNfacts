@@ -10,6 +10,13 @@ body {
 
 .firstSection {
     background-color: #A0615F;
+    width: 100%;
+}
+
+@media (min-width: 600px) {
+    .firstSection {
+        width: 50%;
+    }
 }
 
 .header {
@@ -53,3 +60,6 @@ h1 {
     text-shadow: 3px 3px 3px #5a5a5a;
 }
 
+img {
+    max-width: 100%;
+}
