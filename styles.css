@@ -9,15 +9,15 @@ body {
 }
 
 .firstSection {
-
+    background-color: #A0615F;
 }
 
 .header {
     display: flex;
     margin: 18px 150px 18px 150px;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    background-color: cadetblue;
+    background-color: #5f9ea0;
     border-style: solid;
     border-width: 2px;
     border-radius: 12px;
@@ -28,7 +28,11 @@ body {
     display: flex;
     width: auto;
     height: 200px;
+    border-style: solid;
+    border-width: 2px;
     border-radius: 50%;
+    border-color: black;
+    margin: 3px;
 }
 
 a {
