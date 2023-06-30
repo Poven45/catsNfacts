@@ -73,3 +73,7 @@ h1 {
 img {
     max-width: 100%;
 }
+
+.uppercase::first-letter{
+    font-size: 200%;
+}
